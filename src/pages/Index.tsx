@@ -2,7 +2,7 @@ import { useCallback, useEffect, useRef, useState } from "react";
 
 // ============================================
 // EDIT THESE VALUES ↓↓↓
-const NAME = "HerNameHere";
+const NAME = "BoomBooYoom";
 const MAX_ESCAPES = 5;
 // ============================================
 
